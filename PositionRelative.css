@@ -1,0 +1,35 @@
+/*divs are defined same size and shape*/
+div {
+    height: 50px;
+    width: 100px;
+    border: 2px solid black;
+    border-radius: 50px;
+    display: inline-block;
+
+}
+/*Colors are displayed red blue yellow green*/
+
+
+/*with "position: relative"
+position of selected color divs are adjusted*/
+.with {
+    position: relative;
+    top: 25px;
+    left: 25px;
+}
+
+.one {
+    background-color: #FF0000;
+}
+
+.two {
+    background-color: #0000FF;
+}
+
+.three {
+    background-color: #FFD700;
+}
+
+.four {
+    background-color: #308014;
+}

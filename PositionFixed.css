@@ -1,0 +1,37 @@
+/*divs are defined same size and shape*/
+div {
+    height: 50px;
+    width: 100px;
+    border: 2px solid black;
+    border-radius: 50px;
+
+}
+
+/*display without "position-fixed"
+Colors are displayed red blue yellow green*/
+.none{
+    display: inline-block;
+}
+
+/*with "position: fixed"
+Only the last color green appears*/
+.with {
+    position: fixed;
+}
+
+.one {
+    background-color: #FF0000;
+}
+
+.two {
+    background-color: #0000FF;
+}
+
+.three {
+    background-color: #FFD700;
+}
+
+.four {
+    background-color: #308014;
+}
+

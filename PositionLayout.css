@@ -1,0 +1,50 @@
+body{
+    background-color: darkgray;
+    display: flex;
+}
+menu{
+    height: 600px;
+    width: 200px;
+    background-color: pink;
+    padding: 24px 0 0 0;
+    text-align: center;
+    display: inline;
+}
+
+div{
+    display: inline;
+}
+
+section {
+    height: auto;
+    width: 700px;
+    background-color: seagreen;
+    padding: 24px;
+    display: block;
+}
+
+article {
+    background-color: lightgreen;
+    padding: 10px;
+    display: block;
+}
+
+h1 {
+    font-family: arial, sans-serif;
+    font-size: 36px;
+}
+
+h2 {
+    font-family: arial, sans-serif;
+    font-size: 24px;
+}
+
+h3 {
+    font-family: arial, sans-serif;
+    font-size: 20px;
+}
+
+
+p {
+    font-family: garamond, serif;
+}
